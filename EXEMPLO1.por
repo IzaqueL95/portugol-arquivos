@@ -4,7 +4,7 @@ programa
 	funcao inicio()
 	{
 		inteiro N
-		escreva("escreva o valor de N")
+		escreva("Por favor escreva o valor de N")
 		leia(N)
 
 		se (N<=10)
@@ -31,7 +31,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 264; 
+ * @POSICAO-CURSOR = 66; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
